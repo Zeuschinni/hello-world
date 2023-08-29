@@ -1,2 +1,2 @@
 # hello-world
-This is a repository I created for my Mobile Applications course. This repository will include homework assignments as well as mobile application development projects.
+This is a repository I created for my Mobile Applications course. This repository will include homework assignments as well as mobile application development projects. Please take a look around, I put passion and time into my work. I am a 4th year studying Computer Engineering and have a deep interest in embedded systems design. I am not too familiar with Xcode and Swift, but as you may see as the time goes by...my skills will be honed. 
